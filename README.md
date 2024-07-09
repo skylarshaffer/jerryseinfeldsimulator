@@ -1,6 +1,6 @@
 # Jerry Seinfeld Simulator
 
-A horribly inefficient, yet somehow functional typing tutor for the entirety of the audible Bee Movie script. All uppercase C's are O's. Sorry.
+My very first project. A horribly inefficient, yet somehow functional typing tutor for the entirety of the audible Bee Movie script. All uppercase C's are O's. Sorry.
 
 ## Description
 
